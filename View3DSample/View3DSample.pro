@@ -28,16 +28,3 @@ QML_DESIGNER_IMPORT_PATH =
 qnx: target.path = /tmp/$${TARGET}/bin
 else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
-
-DISTFILES += \
-    model3d/mini_obj.obj \
-    model3d/MyObj1.obj \
-    model3d/town.obj \
-    model3d/town2.obj \
-    model3d/town3.obj \
-    model3d/track.obj \
-    model3d/MyObj1.mtl \
-    model3d/town.mtl \
-    model3d/town2.mtl \
-    model3d/town3.mtl \
-    model3d/track.mtl
