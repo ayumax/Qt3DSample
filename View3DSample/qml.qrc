@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>WhiteLine.qml</file>
+        <file>Graund.qml</file>
+        <file>Town.qml</file>
+        <file>MyCar.qml</file>
+        <file>model3d/MyObj1.mtl</file>
+        <file>model3d/MyObj1.obj</file>
+        <file>model3d/town.mtl</file>
+        <file>model3d/town.obj</file>
+        <file>model3d/town2.mtl</file>
+        <file>model3d/town2.obj</file>
+        <file>model3d/town3.mtl</file>
+        <file>model3d/town3.obj</file>
+        <file>model3d/track.mtl</file>
+        <file>model3d/track.obj</file>
+    </qresource>
+</RCC>
